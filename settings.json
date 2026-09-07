@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mamaantismp.aternos.me",
-    "port": 39827,
-    "version": "26.2"
+    "ip": "TheKhukuriXsmp.aternos.me",
+    "port" 39827,
+    "version": false
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,14 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Lado Kha muji Manil Valu",
-        "Sanjay Chor nepal chod!",
-        "Devendra Dada is Father of all time!"
+        "Follow the rules, or we will personally set your permanent respawn point inside the Void! ",
+        "Hahahaha i am ironman baba!",
+        "K hereko Ma Timro Chama haina Chat ho na hera tesare aakha lagchha!",
+        "Fere Hereu Aakhai Lagayo Huuu",
+        "ex banai sake paxi feri teslai gf banau ne ta randi nai ho",
+        "If you just died, remember: it wasn't a mistake, it was a tactical respawn!",
+        "Khukuri khalas "
+      
       ]
     },
     "chat-log": true,
