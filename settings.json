@@ -8,7 +8,7 @@
   "server": {
     "ip": "TheKhukuriXsmp.aternos.me",
     "port" 39827,
-    "version": 26.2
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
